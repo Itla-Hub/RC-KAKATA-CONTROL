@@ -2232,6 +2232,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C51450"
+			(at 220.98 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ceb3be1b-be7a-447a-bbb5-6786fbcc7bc3")
 		)
@@ -2405,6 +2414,15 @@
 			)
 		)
 		(property "Footprint Name" "0603"
+			(at 234.95 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C114065"
 			(at 234.95 134.62 0)
 			(effects
 				(font
@@ -2671,6 +2689,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C114065"
+			(at 236.22 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "75edeeeb-6fc1-4365-9547-57ac2620a3db")
 		)
@@ -2734,6 +2761,15 @@
 		)
 		(property "Description" "SOD-323 Bidirectional TVS Diode, 3.3V, 500W, Alternate KiCAD Library"
 			(at 55.88 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C51450"
+			(at 55.88 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2946,6 +2982,15 @@
 		)
 		(property "Description" "SOD-323 Bidirectional TVS Diode, 3.3V, 500W, Alternate KiCAD Library"
 			(at 224.79 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C51450"
+			(at 224.79 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3276,6 +3321,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C114065"
+			(at 97.79 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eac99ca0-c8d7-44cb-ba05-9faa9cf1f3d7")
 		)
@@ -3476,6 +3530,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C51450"
+			(at 228.6 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b339fff-8db9-41ba-b144-be5d434b8f18")
 		)
@@ -3603,6 +3666,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "LCSC Part" "C109474"
+			(at 63.5 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -3876,6 +3948,15 @@
 				(justify left)
 			)
 		)
+		(property "LCSC Part" "C109474"
+			(at 234.95 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "31e4d2ed-a6d8-4780-87f4-9585bc9e8103")
 		)
@@ -3984,6 +4065,15 @@
 			)
 		)
 		(property "Footprint Name" "0603"
+			(at 236.22 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C114065"
 			(at 236.22 90.17 0)
 			(effects
 				(font
@@ -4186,6 +4276,15 @@
 				(justify left)
 			)
 		)
+		(property "LCSC Part" "C109474"
+			(at 236.22 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "92768936-2a69-4267-aaad-a896b3c6bad1")
 		)
@@ -4380,6 +4479,15 @@
 				(justify left)
 			)
 		)
+		(property "LCSC Part" "C109474"
+			(at 236.22 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "52f1fabf-73ce-4ba4-8b78-0f637ace3cfb")
 		)
@@ -4443,6 +4551,15 @@
 		)
 		(property "Description" "SOD-323 Bidirectional TVS Diode, 3.3V, 500W, Alternate KiCAD Library"
 			(at 88.9 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C51450"
+			(at 88.9 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4623,6 +4740,15 @@
 			)
 		)
 		(property "Footprint Name" "0603"
+			(at 63.5 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C114065"
 			(at 63.5 43.18 0)
 			(effects
 				(font
@@ -4888,6 +5014,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "LCSC Part" "C109474"
+			(at 97.79 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"

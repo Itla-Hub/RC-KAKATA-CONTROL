@@ -1939,6 +1939,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C8465"
+			(at 187.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9c1e4c1-05a0-4fa6-8252-2e0f3b6b17a8")
 		)
@@ -2098,7 +2107,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "fa847435-775b-4ec3-a121-ed61896871e0")

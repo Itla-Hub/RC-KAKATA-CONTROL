@@ -1137,7 +1137,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "150ed8bf-4242-4607-b993-9b17afaeefca")
@@ -1446,6 +1446,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C95204"
+			(at 86.36 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "45439313-790b-4b5f-a17b-f56b8c8a95de")
 		)
@@ -1554,6 +1563,15 @@
 			)
 		)
 		(property "Footprint Name" "0603"
+			(at 72.39 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C95204"
 			(at 72.39 62.23 0)
 			(effects
 				(font
