@@ -7750,12 +7750,6 @@
 		(uuid "6dd35d1a-1b75-4dab-919a-3877179098f9")
 	)
 	(junction
-		(at 313.69 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6fb494e4-9451-45e0-8c17-9ea4b93515aa")
-	)
-	(junction
 		(at 38.1 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8096,6 +8090,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f124363b-e6b7-4648-bc13-1bdc97e6d612")
+	)
+	(junction
+		(at 314.96 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1a8c7e8-5f29-4ab5-8354-96a09a4b9ee1")
 	)
 	(junction
 		(at 212.09 45.72)
@@ -8885,7 +8885,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 214.63) (xy 29.21 214.63)
+			(xy 69.85 214.63) (xy 29.21 214.63)
 		)
 		(stroke
 			(width 0)
@@ -9035,7 +9035,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 248.92) (xy 53.34 248.92)
+			(xy 69.85 248.92) (xy 53.34 248.92)
 		)
 		(stroke
 			(width 0)
@@ -9055,7 +9055,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 259.08) (xy 63.5 259.08)
+			(xy 69.85 259.08) (xy 63.5 259.08)
 		)
 		(stroke
 			(width 0)
@@ -9105,7 +9105,7 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 93.98) (xy 313.69 92.71)
+			(xy 314.96 93.98) (xy 314.96 92.71)
 		)
 		(stroke
 			(width 0)
@@ -9405,7 +9405,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 106.68) (xy 323.85 106.68)
+			(xy 297.18 106.68) (xy 323.85 106.68)
 		)
 		(stroke
 			(width 0)
@@ -9765,7 +9765,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 111.76) (xy 331.47 111.76)
+			(xy 297.18 111.76) (xy 331.47 111.76)
 		)
 		(stroke
 			(width 0)
@@ -10055,17 +10055,7 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 116.84) (xy 345.44 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40c405fb-69a8-40a8-8825-6dd0a5e0438c")
-	)
-	(wire
-		(pts
-			(xy 77.47 227.33) (xy 41.91 227.33)
+			(xy 69.85 227.33) (xy 41.91 227.33)
 		)
 		(stroke
 			(width 0)
@@ -10205,7 +10195,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 134.62) (xy 191.77 134.62)
+			(xy 177.8 134.62) (xy 191.77 134.62)
 		)
 		(stroke
 			(width 0)
@@ -10325,7 +10315,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 116.84) (xy 313.69 116.84)
+			(xy 297.18 116.84) (xy 314.96 116.84)
 		)
 		(stroke
 			(width 0)
@@ -10555,7 +10545,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 254) (xy 58.42 254)
+			(xy 69.85 254) (xy 58.42 254)
 		)
 		(stroke
 			(width 0)
@@ -11165,7 +11155,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 109.22) (xy 327.66 109.22)
+			(xy 297.18 109.22) (xy 327.66 109.22)
 		)
 		(stroke
 			(width 0)
@@ -11235,7 +11225,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 212.09) (xy 26.67 212.09)
+			(xy 69.85 212.09) (xy 26.67 212.09)
 		)
 		(stroke
 			(width 0)
@@ -11315,6 +11305,16 @@
 	)
 	(wire
 		(pts
+			(xy 314.96 116.84) (xy 345.44 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "881a7fdf-60f2-43dc-a158-fd78d614aa1d")
+	)
+	(wire
+		(pts
 			(xy 254 246.38) (xy 256.54 246.38)
 		)
 		(stroke
@@ -11385,7 +11385,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 224.79) (xy 39.37 224.79)
+			(xy 69.85 224.79) (xy 39.37 224.79)
 		)
 		(stroke
 			(width 0)
@@ -11435,7 +11435,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 144.78) (xy 186.69 144.78)
+			(xy 191.77 144.78) (xy 177.8 144.78)
 		)
 		(stroke
 			(width 0)
@@ -11475,7 +11475,7 @@
 	)
 	(wire
 		(pts
-			(xy 304.8 114.3) (xy 339.09 114.3)
+			(xy 297.18 114.3) (xy 339.09 114.3)
 		)
 		(stroke
 			(width 0)
@@ -11485,7 +11485,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 132.08) (xy 191.77 132.08)
+			(xy 177.8 132.08) (xy 191.77 132.08)
 		)
 		(stroke
 			(width 0)
@@ -11605,7 +11605,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 217.17) (xy 31.75 217.17)
+			(xy 69.85 217.17) (xy 31.75 217.17)
 		)
 		(stroke
 			(width 0)
@@ -12085,7 +12085,7 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 101.6) (xy 313.69 116.84)
+			(xy 314.96 101.6) (xy 314.96 116.84)
 		)
 		(stroke
 			(width 0)
@@ -12095,7 +12095,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 256.54) (xy 60.96 256.54)
+			(xy 69.85 256.54) (xy 60.96 256.54)
 		)
 		(stroke
 			(width 0)
@@ -12135,7 +12135,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 204.47) (xy 19.05 204.47)
+			(xy 69.85 204.47) (xy 19.05 204.47)
 		)
 		(stroke
 			(width 0)
@@ -12215,7 +12215,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 222.25) (xy 36.83 222.25)
+			(xy 69.85 222.25) (xy 36.83 222.25)
 		)
 		(stroke
 			(width 0)
@@ -12225,7 +12225,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 219.71) (xy 34.29 219.71)
+			(xy 69.85 219.71) (xy 34.29 219.71)
 		)
 		(stroke
 			(width 0)
@@ -12375,7 +12375,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 142.24) (xy 191.77 142.24)
+			(xy 177.8 142.24) (xy 191.77 142.24)
 		)
 		(stroke
 			(width 0)
@@ -12395,7 +12395,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 243.84) (xy 48.26 243.84)
+			(xy 69.85 243.84) (xy 48.26 243.84)
 		)
 		(stroke
 			(width 0)
@@ -12455,7 +12455,7 @@
 	)
 	(wire
 		(pts
-			(xy 313.69 92.71) (xy 323.85 92.71)
+			(xy 314.96 92.71) (xy 323.85 92.71)
 		)
 		(stroke
 			(width 0)
@@ -12525,7 +12525,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 209.55) (xy 24.13 209.55)
+			(xy 69.85 209.55) (xy 24.13 209.55)
 		)
 		(stroke
 			(width 0)
@@ -12885,7 +12885,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 251.46) (xy 55.88 251.46)
+			(xy 69.85 251.46) (xy 55.88 251.46)
 		)
 		(stroke
 			(width 0)
@@ -13215,7 +13215,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 241.3) (xy 45.72 241.3)
+			(xy 69.85 241.3) (xy 45.72 241.3)
 		)
 		(stroke
 			(width 0)
@@ -13755,7 +13755,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 246.38) (xy 50.8 246.38)
+			(xy 69.85 246.38) (xy 50.8 246.38)
 		)
 		(stroke
 			(width 0)
@@ -13875,7 +13875,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 207.01) (xy 21.59 207.01)
+			(xy 69.85 207.01) (xy 21.59 207.01)
 		)
 		(stroke
 			(width 0)
@@ -13884,7 +13884,7 @@
 		(uuid "fff4672b-fc64-4360-980d-b670704e67ff")
 	)
 	(label "LS_DELANTERO_DX_0G"
-		(at 77.47 246.38 0)
+		(at 69.85 246.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14074,7 +14074,7 @@
 		(uuid "1a208709-0d73-4b24-b04b-d5e3d33c0587")
 	)
 	(label "LS_TRASERO_IX_180G"
-		(at 77.47 254 0)
+		(at 69.85 254 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14104,7 +14104,7 @@
 		(uuid "1e04c3b0-e5b6-4e07-8f54-ef96854e7438")
 	)
 	(label "LS_TRASERO_DX_0G"
-		(at 77.47 256.54 0)
+		(at 69.85 256.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14114,7 +14114,7 @@
 		(uuid "1e5f91dd-fcca-4a32-89a8-569d9dd13769")
 	)
 	(label "ADC_VBAT2"
-		(at 186.69 144.78 180)
+		(at 177.8 144.78 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14164,7 +14164,7 @@
 		(uuid "23bd1d14-0c65-4216-b699-f47a59dd3556")
 	)
 	(label "NJTRST"
-		(at 304.8 116.84 180)
+		(at 297.18 116.84 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14294,7 +14294,7 @@
 		(uuid "33a792a5-0491-469b-9ac5-a25ae1b8b462")
 	)
 	(label "ENC_A_DELANTERO_DER"
-		(at 77.47 212.09 0)
+		(at 69.85 212.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14304,7 +14304,7 @@
 		(uuid "390db467-3921-467b-a6a0-f76859fe7799")
 	)
 	(label "JTDO"
-		(at 304.8 114.3 180)
+		(at 297.18 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14394,7 +14394,7 @@
 		(uuid "48220d06-7c23-46e9-aac9-a06e260e6d85")
 	)
 	(label "ENC_A_TRASERO_IZQ"
-		(at 77.47 204.47 0)
+		(at 69.85 204.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14494,7 +14494,7 @@
 		(uuid "5fb26574-c790-4957-9b25-b7dc4aa1fb57")
 	)
 	(label "LS_TRASERO_IX_0G"
-		(at 77.47 251.46 0)
+		(at 69.85 251.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14604,7 +14604,7 @@
 		(uuid "6af2e67c-c1f0-4b25-a49e-2c6c7b54cd07")
 	)
 	(label "UART_TX"
-		(at 186.69 134.62 180)
+		(at 177.8 134.62 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14614,7 +14614,7 @@
 		(uuid "6b7bdaea-4846-4496-afbf-e6bdf38b82e6")
 	)
 	(label "ENC_A_MOTOR_2_IZQ"
-		(at 77.47 217.17 0)
+		(at 69.85 217.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14684,7 +14684,7 @@
 		(uuid "75238533-af1e-43ab-b2e0-323a979b7749")
 	)
 	(label "ENC_A_TRASERO_DER"
-		(at 77.47 207.01 0)
+		(at 69.85 207.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14704,7 +14704,7 @@
 		(uuid "7715b20a-49ef-49de-9ff9-e849c0359ce9")
 	)
 	(label "LS_DELANTERO_IX_180G"
-		(at 77.47 243.84 0)
+		(at 69.85 243.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14714,7 +14714,7 @@
 		(uuid "77b1e203-d5e3-4b6c-a9c8-72495a4ccbaf")
 	)
 	(label "LS_TRASERO_DX_180G"
-		(at 77.47 259.08 0)
+		(at 69.85 259.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14834,7 +14834,7 @@
 		(uuid "84cd00aa-4932-43d7-a798-b751081df31d")
 	)
 	(label "LS_DELANTERO_DX_180G"
-		(at 77.47 248.92 0)
+		(at 69.85 248.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14844,7 +14844,7 @@
 		(uuid "861a6e48-866a-4030-8e07-dd79401ce617")
 	)
 	(label "ADC_VBAT1"
-		(at 186.69 142.24 180)
+		(at 177.8 142.24 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14904,7 +14904,7 @@
 		(uuid "8e8e2f93-24e0-49ef-8dcd-0a6e44612e2a")
 	)
 	(label "JTCK{slash}SWCLK"
-		(at 304.8 109.22 180)
+		(at 297.18 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14934,7 +14934,7 @@
 		(uuid "90d93f88-d4b0-444d-9d0e-f7a40fdc9138")
 	)
 	(label "JTDI"
-		(at 304.8 111.76 180)
+		(at 297.18 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14974,7 +14974,7 @@
 		(uuid "94a55744-c27d-477d-89a7-f1eab387a8ec")
 	)
 	(label "ENC_A_MOTOR_1_IZQ"
-		(at 77.47 214.63 0)
+		(at 69.85 214.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15144,7 +15144,7 @@
 		(uuid "a74e98b2-5c2c-4490-8ca5-e1300178258e")
 	)
 	(label "ENC_A_MOTOR_3_DER"
-		(at 77.47 227.33 0)
+		(at 69.85 227.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15194,7 +15194,7 @@
 		(uuid "ade148fc-cbae-4b0d-80cb-4007d391f421")
 	)
 	(label "JTMS{slash}SWDIO"
-		(at 304.8 106.68 180)
+		(at 297.18 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15324,7 +15324,7 @@
 		(uuid "c36136f8-11f7-4c5b-be46-b1cf6e3635af")
 	)
 	(label "ENC_A_MOTOR_3_IZQ"
-		(at 77.47 219.71 0)
+		(at 69.85 219.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15424,7 +15424,7 @@
 		(uuid "dadeeec2-5f62-40ca-9e37-f61408f42cb8")
 	)
 	(label "UART_RX"
-		(at 186.69 132.08 180)
+		(at 177.8 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15514,7 +15514,7 @@
 		(uuid "e5b525b9-1e7c-4b0c-92a4-45e050cb158a")
 	)
 	(label "ENC_A_MOTOR_2_DER"
-		(at 77.47 224.79 0)
+		(at 69.85 224.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15524,7 +15524,7 @@
 		(uuid "e691b5ff-3c94-4e13-bcf3-afe7412f4348")
 	)
 	(label "ENC_A_DELANTERO_IZQ"
-		(at 77.47 209.55 0)
+		(at 69.85 209.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15654,7 +15654,7 @@
 		(uuid "f7f53550-242b-4c0e-bc5e-144f3d947f73")
 	)
 	(label "ENC_A_MOTOR_1_DER"
-		(at 77.47 222.25 0)
+		(at 69.85 222.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15724,7 +15724,7 @@
 		(uuid "fc18a79d-cfae-442c-94d8-0d7b558ac850")
 	)
 	(label "LS_DELANTERO_IX_0G"
-		(at 77.47 241.3 0)
+		(at 69.85 241.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20467,7 +20467,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6526ef1c-8593-4e0c-9730-3b38083b5e2f")
 		(property "Reference" "#PWR72"
 			(at 204.47 39.37 0)
@@ -20479,7 +20478,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 204.47 38.1 0)
+			(at 204.47 36.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21370,7 +21369,7 @@
 	)
 	(symbol
 		(lib_id "MG_RESISTOR:RES-0603-10K-1%")
-		(at 313.69 97.79 0)
+		(at 314.96 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21378,7 +21377,7 @@
 		(dnp no)
 		(uuid "861e7186-c378-43a7-a34e-5fec7bd5ca47")
 		(property "Reference" "R52"
-			(at 308.102 97.028 0)
+			(at 309.372 97.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21387,7 +21386,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 308.61 99.06 0)
+			(at 309.88 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21396,7 +21395,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 314.706 98.044 90)
+			(at 315.976 98.044 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21405,7 +21404,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 313.69 97.79 0)
+			(at 314.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21414,7 +21413,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 313.69 97.79 0)
+			(at 314.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21423,7 +21422,7 @@
 			)
 		)
 		(property "TOL" "1%"
-			(at 313.69 97.79 0)
+			(at 314.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21432,7 +21431,7 @@
 			)
 		)
 		(property "PWR" "1/10"
-			(at 313.69 97.79 0)
+			(at 314.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21441,7 +21440,7 @@
 			)
 		)
 		(property "Part Number" "RC0603FR-0710KL"
-			(at 313.69 97.79 0)
+			(at 314.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21450,7 +21449,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 313.69 97.79 0)
+			(at 314.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21459,7 +21458,7 @@
 			)
 		)
 		(property "Footprint Name" "0603"
-			(at 313.69 97.79 0)
+			(at 314.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
