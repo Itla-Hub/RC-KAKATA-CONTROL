@@ -1829,7 +1829,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b75aaca6-cf29-444a-8df7-deee76bdb51c")
 		(property "Reference" "J2"
 			(at 190.5 107.9499 0)
@@ -1930,13 +1929,39 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC PN" ""
+		(property "LCSC PN" "C2915639"
 			(at 187.96 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "PART_NUMBER" ""
+			(at 187.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 187.96 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2915639"
+			(at 188.214 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1946,7 +1971,11 @@
 			(uuid "3ee127e3-7e5f-4add-aa1b-0b595b4590e0")
 		)
 		(instances
-			(project "RC-KAKATA-CONTROL"
+			(project ""
+				(path "/739b16ea-69b1-41ec-be07-897a0cbc3062"
+					(reference "J9")
+					(unit 1)
+				)
 				(path "/739b16ea-69b1-41ec-be07-897a0cbc3062/2de8daa4-f828-4eee-a9c1-fedae33e84fa"
 					(reference "J9")
 					(unit 1)
@@ -2100,7 +2129,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fa847435-775b-4ec3-a121-ed61896871e0")
 		(property "Reference" "RC-VNH70-V1"
 			(at 140.0967 92.71 0)
