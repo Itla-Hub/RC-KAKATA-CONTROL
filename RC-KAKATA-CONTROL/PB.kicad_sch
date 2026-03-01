@@ -38,7 +38,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_Diode_SMD_AKL:D_SOD-323_TVS"
+			(property "Footprint" "Diode_SMD_AKL:D_SOD-323_TVS"
 				(at 0 0 0)
 				(effects
 					(font

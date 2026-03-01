@@ -323,7 +323,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_Crystal_AKL:Crystal_SMD_3225-4Pin_3.2x2.5mm"
+			(property "Footprint" "Crystal_AKL:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -670,9 +670,6 @@
 			(embedded_fonts no)
 		)
 		(symbol "EasyEDA:Q13MC3061000300"
-			(pin_names
-				(hide yes)
-			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4378,7 +4375,7 @@
 					)
 				)
 			)
-			(property "Footprint" "PCM_LED_SMD_AKL:LED_0603_1608Metric"
+			(property "Footprint" "LED_SMD_AKL:LED_0603_1608Metric"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6226,7 +6223,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "PCM_SparkFun-Connector:2x20_Shrouded"
+			(property "Footprint" "SparkFun-Connector:2x20_Shrouded"
 				(at 0 -44.45 0)
 				(effects
 					(font
@@ -8285,6 +8282,10 @@
 		(uuid "05217299-3fc5-4d6f-b546-4f3d63c10022")
 	)
 	(no_connect
+		(at 107.95 81.28)
+		(uuid "0fd15d34-bbf9-4085-ae56-86280b394c3a")
+	)
+	(no_connect
 		(at 52.07 172.72)
 		(uuid "112b9ded-e22c-4d77-9d58-a08bc862872a")
 	)
@@ -8295,6 +8296,10 @@
 	(no_connect
 		(at 148.59 88.9)
 		(uuid "1373af84-a85f-4e9c-8193-5944143fee4e")
+	)
+	(no_connect
+		(at 191.77 81.28)
+		(uuid "15b9d8cd-0cef-4c8c-a7be-a2e70f8b2023")
 	)
 	(no_connect
 		(at 191.77 106.68)
@@ -8329,8 +8334,20 @@
 		(uuid "29c4ae74-0e9f-429b-b5cb-b53c965232a0")
 	)
 	(no_connect
+		(at 107.95 78.74)
+		(uuid "2cf4882a-d762-4265-909f-9a379501b6f2")
+	)
+	(no_connect
 		(at 191.77 129.54)
 		(uuid "2e1d161c-f4dc-4ab9-96dd-35b4c3fd4367")
+	)
+	(no_connect
+		(at 191.77 86.36)
+		(uuid "3137d8db-cd13-48e0-96d5-5454709d90c9")
+	)
+	(no_connect
+		(at 191.77 83.82)
+		(uuid "3296fbc5-782c-42f2-a16f-00db6230d667")
 	)
 	(no_connect
 		(at 107.95 86.36)
@@ -8513,10 +8530,6 @@
 		(uuid "9c29ca84-61f4-4c8a-a10a-3eb20db120f2")
 	)
 	(no_connect
-		(at 349.25 203.2)
-		(uuid "9f81ef85-c04c-4522-848b-ca5f156fd0d6")
-	)
-	(no_connect
 		(at 254 63.5)
 		(uuid "a0067563-575b-46c6-a4ee-56b37459c83d")
 	)
@@ -8691,6 +8704,10 @@
 	(no_connect
 		(at 191.77 170.18)
 		(uuid "f7e6cf4f-28bd-405c-8362-28a9bc41b0e4")
+	)
+	(no_connect
+		(at 107.95 76.2)
+		(uuid "f974d79e-4260-4518-a867-307f5f215a29")
 	)
 	(no_connect
 		(at 254 213.36)
@@ -16754,6 +16771,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -17719,6 +17737,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 350.52 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C6332200"
 			(at 350.52 111.76 0)
 			(effects
 				(font
@@ -19065,6 +19092,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -19348,7 +19376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0733RL"
+		(property "Part Number" "RC0603FR-0710KL"
 			(at 199.39 29.21 0)
 			(effects
 				(font
@@ -19847,6 +19875,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -21343,7 +21372,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" ""
+		(property "JLCPCB ID" "C14663"
 			(at 58.42 170.18 0)
 			(effects
 				(font
@@ -21472,11 +21501,12 @@
 			)
 		)
 		(property "LCSC Part" "C965799"
-			(at 149.86 57.15 0)
+			(at 148.336 61.214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -22319,7 +22349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0733RL"
+		(property "Part Number" "RC0603FR-0710KL"
 			(at 199.39 26.67 0)
 			(effects
 				(font
@@ -22775,6 +22805,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25224,7 +25255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" ""
+		(property "Display" "0.1uF"
 			(at 46.99 182.245 0)
 			(effects
 				(font
@@ -25234,7 +25265,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" ""
+		(property "JLCPCB ID" "C14663"
 			(at 58.42 182.88 0)
 			(effects
 				(font
@@ -27292,11 +27323,12 @@
 			)
 		)
 		(property "LCSC Part" "C114617"
-			(at 139.7 57.15 90)
+			(at 137.922 61.976 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -27486,6 +27518,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -29449,6 +29482,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(pin "adc_vbat1" output
@@ -29667,19 +29701,9 @@
 				(justify left)
 			)
 		)
-		(pin "NCS" input
-			(at 349.25 203.2 180)
-			(uuid "bd24c2f4-d993-4d75-aed3-0d400a0f3fb5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "SCL{slash}SCLK" input
+		(pin "SCL" input
 			(at 349.25 205.74 180)
-			(uuid "b9b0a1fd-59c7-45f5-9de2-04c305977c53")
+			(uuid "50587a21-c1ca-4015-86fd-c6a321397127")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29687,9 +29711,9 @@
 				(justify left)
 			)
 		)
-		(pin "SDA{slash}SDI" input
+		(pin "SDA" bidirectional
 			(at 349.25 208.28 180)
-			(uuid "723bc125-a580-443e-a563-1baee969bb4b")
+			(uuid "f4be30c6-acf3-48f6-950f-a01fdcc1e0fa")
 			(effects
 				(font
 					(size 1.27 1.27)

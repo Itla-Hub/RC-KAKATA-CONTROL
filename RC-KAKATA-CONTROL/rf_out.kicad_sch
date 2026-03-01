@@ -1211,10 +1211,9 @@
 		(at 55.88 69.85 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "32added2-fa4c-4752-80d6-e5ba9ece6ef8")
 		(property "Reference" "JP2"
 			(at 53.34 68.5799 90)
@@ -1305,7 +1304,7 @@
 			)
 		)
 		(property "LCSC Part" "C52016391"
-			(at 55.88 69.85 0)
+			(at 59.182 60.198 0)
 			(effects
 				(font
 					(size 1.27 1.27)

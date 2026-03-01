@@ -68,6 +68,10 @@
           ""
         ],
         [
+          "silk_over_copper|120874000|141482500|1128d8d9-b771-4fe2-bb8d-eae96c10aab0|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
           "silk_over_copper|128492000|166247500|5a385d47-e9eb-4931-9153-ca6e0ea4116d|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -76,15 +80,11 @@
           ""
         ],
         [
-          "silk_over_copper|128492000|91952500|f4d839cd-5c2b-4ca3-9261-4a21e292c649|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|145000000|110135955|edd38c82-b447-4cdb-972e-b3bf72d7d229|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_over_copper|145000000|111147500|edd38c82-b447-4cdb-972e-b3bf72d7d229|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|145000000|134900955|1128d8d9-b771-4fe2-bb8d-eae96c10aab0|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|145000000|85370955|f4d839cd-5c2b-4ca3-9261-4a21e292c649|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -120,7 +120,7 @@
           ""
         ],
         [
-          "silk_over_copper|204000000|110621500|55d6a09b-9a39-40e7-aed3-0744d93c2826|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|204000000|184959853|25faeedc-aec3-4071-8dcf-00fe0e223d78|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -128,19 +128,19 @@
           ""
         ],
         [
+          "silk_over_copper|217940087|141527500|0ed9e29a-e201-4a6f-80bb-81019d2c8292|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|228126000|116762500|55d6a09b-9a39-40e7-aed3-0744d93c2826|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
           "silk_over_copper|228126000|166292500|e77755f7-f578-49d5-b1cb-4185a0d63758|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_over_copper|228126000|191057500|25faeedc-aec3-4071-8dcf-00fe0e223d78|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|232952000|141527500|0ed9e29a-e201-4a6f-80bb-81019d2c8292|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_overlap|157690762|177422500|bcfbb73a-1058-49a2-b5c8-34863b304ca4|e46b4afc-0c1e-4d35-a40e-143ccd7f6066",
+          "silk_overlap|163881238|177422500|bcfbb73a-1058-49a2-b5c8-34863b304ca4|e46b4afc-0c1e-4d35-a40e-143ccd7f6066",
           ""
         ],
         [
@@ -228,7 +228,7 @@
         "min_track_width": 0.1524,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -352,7 +352,24 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|571500|1727200|9906045b-c1f9-4862-978f-fa91d823a1d9|91e8b14c-4b31-41b8-9ef0-00392194fd83|/739b16ea-69b1-41ec-be07-897a0cbc3062|/739b16ea-69b1-41ec-be07-897a0cbc3062|/739b16ea-69b1-41ec-be07-897a0cbc3062",
+        ""
+      ],
+      [
+        "pin_to_pin|571500|1828800|eac03d29-0dee-4c28-8bb8-8f4a8a0cb0da|f4e1163c-aaf0-4984-ace0-8ef16e1a327e|/739b16ea-69b1-41ec-be07-897a0cbc3062|/739b16ea-69b1-41ec-be07-897a0cbc3062|/739b16ea-69b1-41ec-be07-897a0cbc3062",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1308100|647700|a2be27ab-6c99-4f46-898a-1b4cf893acc8|00000000-0000-0000-0000-000000000000|/739b16ea-69b1-41ec-be07-897a0cbc3062|/739b16ea-69b1-41ec-be07-897a0cbc3062|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|1917700|1308100|4e746a45-7a78-435e-8224-5f98ed6439dd|00000000-0000-0000-0000-000000000000|/739b16ea-69b1-41ec-be07-897a0cbc3062/a6073b6b-515f-4632-8277-09cf21c197b1|/739b16ea-69b1-41ec-be07-897a0cbc3062/a6073b6b-515f-4632-8277-09cf21c197b1|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -613,7 +630,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./gerber",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../../../temp/RC-KAKATA-CONTROL.step",
@@ -871,6 +888,42 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LSC_PN",
+          "name": "LSC_PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SNAPEDA_PN",
+          "name": "SNAPEDA_PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Dielec",
+          "name": "Dielec",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
           "show": false
         }
       ],
